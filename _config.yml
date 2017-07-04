@@ -1,0 +1,3 @@
+name: Tudor Ioneasa
+markdown: kramdown
+exclude: ["node_modules", "gwulpfile.js", "package.json"]
